@@ -1,0 +1,3 @@
+#!/bin/sh
+
+simple-dosbox-launcher -z "/usr/share/hands_of_god-1.0/hands_of_god-1.0.zip" -n "신의_손-1.0" -p "HOG.EXE"

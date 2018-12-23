@@ -1,0 +1,15 @@
+= hangul-typing overlay
+
+To add this overlay, execute
+
+----
+eselect repository enable haskell
+eselect repository enable hangul-typing
+----
+
+or
+
+----
+eselect repository enable haskell
+eselect repository add hangul-typing git https://gitlab.com/espresso.tiger/hangul-typing.git
+----

@@ -1,0 +1,3 @@
+#!/bin/sh
+
+simple-dosbox-launcher -z "/usr/share/hanme_typing_tutor-3.05/hanme_typing_tutor-3.05.zip" -n "한메타자교사-3.05" -p "HTT.EXE"
